@@ -33,4 +33,5 @@ As a data analyst for a multinational mobile retailer, I was tasked with uncover
 - Introduce targeted offers for specific age-brand-payment segments.
 - Monitor sales trends across price bands to adjust future pricing strategies.
 
-![Screenshot 2025-05-22 174512-down](https://github.com/user-attachments/assets/55ea2b5d-6956-4a5a-ad5f-18b32d0b53b3)
+![Mobile-Sales-Onyx](https://github.com/user-attachments/assets/00065b55-29d5-4693-bb7a-aff76eab14dc)
+
